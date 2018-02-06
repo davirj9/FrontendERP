@@ -1,2 +1,3 @@
 # FrontendERP
-ERP
+
+Frontend do projeto desenvolvido em angular4.
